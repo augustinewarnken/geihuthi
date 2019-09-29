@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aicohsuth.rikheywood.co.uk/sitemap.xml
